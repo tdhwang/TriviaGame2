@@ -1,0 +1,11 @@
+body {
+	position: fixed;
+    
+    right: 0;
+    left: 0;
+    margin: auto;
+    
+    min-height: 10em;
+    width: 90%;
+
+}
